@@ -5,13 +5,11 @@ import {
     css,
     estate,
     express,
-    git,
     github,
     html,
     javascript,
     linkedin,
     mongodb,
-    motion,
     mui,
     nextjs,
     nodejs,
@@ -38,11 +36,6 @@ export const skills = [
         type: "Backend",
     },
     {
-        imageUrl: git,
-        name: "Git",
-        type: "Version Control",
-    },
-    {
         imageUrl: github,
         name: "GitHub",
         type: "Version Control",
@@ -61,11 +54,6 @@ export const skills = [
         imageUrl: mongodb,
         name: "MongoDB",
         type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
     },
     {
         imageUrl: mui,
