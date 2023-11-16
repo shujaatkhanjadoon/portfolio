@@ -1,1 +1,1 @@
-# Portfolio website created by React, TreeJs and TailwindCss
+# Portfolio website created by React, ThreeJs and TailwindCss
